@@ -4,8 +4,8 @@ A web app to bring great ideas together
 
 ## Getting Started:
 
-1. Install [VirtualBox][virtualbox]
-2. Install [Vagrant][vagrant]
+1. Install [VirtualBox](http://www.virtualbox.org/)
+2. Install [Vagrant](http://www.vagrantup.com/)
 3. Run `vagrant up` in the project directory to bring the project online
 4. Run `vagrant ssh` to access the virtual machine
 5. Run the `bootstrap.sh` to configure the environment for the first time
@@ -19,6 +19,3 @@ https://atlas.mindmup.com/2015/03/b2947f40b0d501322eab4efd95468131/junto_app/ind
 
 ![Thumbnail of MindMup flowchart]
 (https://atlas.mindmup.com/2015/03/b2947f40b0d501322eab4efd95468131/junto_app/thumb.png)
-
-[virtualbox]: http://www.virtualbox.org/ VirtualBox
-[vagrant]: htttp://www.vagrantup.com/ Vagrant
